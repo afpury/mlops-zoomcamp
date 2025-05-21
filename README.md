@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-contoh aja ni
+Homework solution for week 1 MLOps Zoomcamp
